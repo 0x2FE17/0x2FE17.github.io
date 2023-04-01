@@ -2,42 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://0x2fe17.github.io/</link>
+    <link>0x2FE17.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 20:25:51 +0800</lastBuildDate><atom:link href="https://0x2fe17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="0x2FE17.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://0x2fe17.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 01 Apr 2023 20:25:51 +0800</pubDate>
+      <title>Lyq</title>
+      <link>0x2FE17.github.io/lyq/</link>
+      <pubDate>Sat, 01 Apr 2023 21:11:01 +0800</pubDate>
       
-      <guid>https://0x2fe17.github.io/posts/my-first-post/</guid>
-      <description>dfzggusdgyudzghuxzcghcvxhjgv sdd d vxz xvz
-vxz z
-vf
-vf
-fv xf fv vf vf</description>
-    </item>
-    
-    <item>
-      <title>sample</title>
-      <link>https://0x2fe17.github.io/post/test/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x2fe17.github.io/post/test/</guid>
-      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
-Below you will find some of the most common and helpful pages from our documentation.
-https://gohugo.io/documentation/</description>
-    </item>
-    
-    <item>
-      <title>test post</title>
-      <link>https://0x2fe17.github.io/post/test/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x2fe17.github.io/post/test/</guid>
-      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+      <guid>0x2FE17.github.io/lyq/</guid>
+      <description>什么是区块链？ 区块链是一种去中心化的分布式数据库技术，用于记录信息的存储和传输，并且可以防止信息被篡改。它最初是作为加密货币比特币的底层技术而出现的，但现在已经被广泛应用于各种行业，如金融、医疗、能源和教育等领域。
+区块链的原理 区块链的原理可以被概括为“去中心化的分布式账本”。每一笔交易都被记录在一个由许多节点组成的网络中，这些节点都保存着同样的账本副本。每一个参与者都可以在账本中添加新的交易信息，这些交易信息都被归纳到一个数据块中。一个数据块包含了许多交易，并被标记上一个“哈希”，这个哈希值是由该数据块中的所有交易计算而来，可以保证数据块不被篡改。每一个数据块都包括前一个数据块的哈希值，因此形成了一个链式的数据结构。这就是区块链的基本组成部分——“区块”。
+区块链的工作原理 当一个新的交易信息到达网络时，它将被广播到所有的节点。每一个节点都将验证这个交易，确认是否有效。如果交易无效，那么这个交易就会被拒绝。如果交易是有效的，那么它将被打包到一个新的数据块中。每个节点都可以尝试去打包交易信息，并且这个过程是竞争性的。一旦一个节点打包完成，它就将这个数据块广播给所有的节点。
+当一个节点收到了新的数据块时，它将验证这个数据块，确认其中的交易是否有效，并将其添加到自己的账本中。如果这个数据块无效，那么这个数据块将被拒绝。如果这个数据块是有效的，那么该节点将把它加入到区块链的最后一个数据块的后面，形成一个新的“块”。
+区块链的优势 区块链技术具有许多优势，其中最重要的是去中心化、透明度和安全性。去中心化使得区块链不依赖于单一的中心机构，降低了单点故障的风险。透明度使得所有用户都能够查看区块链上的历史记录，并监督其中的每一笔交易。安全性使得数据无法被篡改，保证了数据的安全性。
+区块链的应用 区块链已经被广泛应用于各种行业，如金融、医疗、能源和教育等领域。在金融领域，区块链可以用于加速国际汇款、提高证券交易的效率、减少黑市交易等。在医疗领域，区块链可以用于建立医疗档案和跟踪药品生产、分发和质量控制等方面。在能源领域，区块链可以用于跟踪能源来源和减少电力盗窃等。在教育领域，区块链可以用于证书认证、成绩记录和学位验证等方面。
+总之，区块链技术的应用前景十分广阔，它将为我们的生活带来更多的便利和安全性。</description>
     </item>
     
   </channel>
