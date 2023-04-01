@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>0x2FE17.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="0x2FE17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lyq</title>
-      <link>0x2FE17.github.io/lyq/</link>
+      <link>http://example.org/lyq/</link>
       <pubDate>Sat, 01 Apr 2023 21:11:01 +0800</pubDate>
       
-      <guid>0x2FE17.github.io/lyq/</guid>
+      <guid>http://example.org/lyq/</guid>
       <description>什么是区块链？ 区块链是一种去中心化的分布式数据库技术，用于记录信息的存储和传输，并且可以防止信息被篡改。它最初是作为加密货币比特币的底层技术而出现的，但现在已经被广泛应用于各种行业，如金融、医疗、能源和教育等领域。
 区块链的原理 区块链的原理可以被概括为“去中心化的分布式账本”。每一笔交易都被记录在一个由许多节点组成的网络中，这些节点都保存着同样的账本副本。每一个参与者都可以在账本中添加新的交易信息，这些交易信息都被归纳到一个数据块中。一个数据块包含了许多交易，并被标记上一个“哈希”，这个哈希值是由该数据块中的所有交易计算而来，可以保证数据块不被篡改。每一个数据块都包括前一个数据块的哈希值，因此形成了一个链式的数据结构。这就是区块链的基本组成部分——“区块”。
 区块链的工作原理 当一个新的交易信息到达网络时，它将被广播到所有的节点。每一个节点都将验证这个交易，确认是否有效。如果交易无效，那么这个交易就会被拒绝。如果交易是有效的，那么它将被打包到一个新的数据块中。每个节点都可以尝试去打包交易信息，并且这个过程是竞争性的。一旦一个节点打包完成，它就将这个数据块广播给所有的节点。
